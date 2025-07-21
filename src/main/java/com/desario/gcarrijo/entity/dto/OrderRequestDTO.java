@@ -1,5 +1,6 @@
 package com.desario.gcarrijo.entity.dto;
 
+import lombok.Builder;
 import lombok.Data;
 import java.util.List;
 import java.util.UUID;

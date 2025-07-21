@@ -1,5 +1,6 @@
 package com.desario.gcarrijo.entity.dto;
 
+import lombok.Builder;
 import lombok.Data;
 
 @Data
